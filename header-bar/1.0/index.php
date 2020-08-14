@@ -3,7 +3,7 @@
 Module Name: modulR Announcement Bar
 Component: Header Bar
 Author: Simon Bailey
-Verson: 1.1
+Verson: 1.0.1
 website: http://www.modulr.com
 -->
 <style>
