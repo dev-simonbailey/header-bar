@@ -13,10 +13,7 @@ width: 100%;
 text-align: center;
 }
 .<?=$css_id?>announcement-fullwidth-yellow {
-background: #fee15b;
-}
-.<?=$css_id?>announcement-fullwidth-blue {
-background: #83B0F0;
+background: #FFFF00;
 }
 .<?=$css_id?>announcement-container {
 margin: 0 auto;
