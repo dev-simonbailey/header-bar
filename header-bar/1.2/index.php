@@ -38,7 +38,7 @@ width: 100%;
 <div class="<?=$css_id?>announcement-fullwidth <?=$css_id?>announcement-fullwidth-yellow">
   <div class="<?=$css_id?>announcement-container">
     <div class="<?=$css_id?>announcement-bar">
-      Version 1.2.1 of the Announcmeent Header Bar
+      Version 1.2.1 of the Announcement Header Bar
     </div>
   </div>
 </div>
