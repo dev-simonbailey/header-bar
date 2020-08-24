@@ -3,7 +3,7 @@
 Module Name: modulR Announcement Bar
 Component: Header Bar
 Author: Simon Bailey
-Verson: 1.2.0
+Verson: 1.2.2
 website: http://www.modulr.com
 -->
 <style>
@@ -38,7 +38,7 @@ width: 100%;
 <div class="<?=$css_id?>announcement-fullwidth <?=$css_id?>announcement-fullwidth-yellow">
   <div class="<?=$css_id?>announcement-container">
     <div class="<?=$css_id?>announcement-bar">
-      Version 1.2.1 of the Announcement Header Bar
+      Version 1.2.2 of the Announcement Header Bar
     </div>
   </div>
 </div>
